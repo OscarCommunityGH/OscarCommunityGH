@@ -51,7 +51,7 @@
 ### 🤝🏻 &nbsp;Contact with Me
 
 <p align="center">
-<a href="https://github./OscarCommunityGH"><img src="https://img.shields.io/badge/-OscarCommunityGH-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://github.com/OscarCommunityGH"><img src="https://img.shields.io/badge/-OscarCommunityGH-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://lozanopedrajooscaromar1@gmail"><img src="https://img.shields.io/badge/-lozanopedrajooscaromar1@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/oscarcommunity_"><img src="https://img.shields.io/badge/-@OscarCommunity_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/OscarPedrajoLozano"><img src="https://img.shields.io/badge/-@OscarLozanoPedrajo-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
