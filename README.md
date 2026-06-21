@@ -51,10 +51,10 @@
 ### 🤝🏻 &nbsp;Contact with Me
 
 <p align="center">
-<a href="[https://www.adityavsingh.com](https://github.com/OscarCommunityGH)"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="lozanopedrajooscaromar1@gmail"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/oscarcommunity_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/OscarPedrajoLozano"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="[https://www.adityavsingh.com](https://github.com/OscarCommunityGH)"><img src="https://img.shields.io/badge/-OscarCommunityGH-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://lozanopedrajooscaromar1@gmail"><img src="https://img.shields.io/badge/-lozanopedrajooscaromar1@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/oscarcommunity_"><img src="https://img.shields.io/badge/-@OscarCommunity_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/OscarPedrajoLozano"><img src="https://img.shields.io/badge/-@OscarLozanoPedrajo-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/OscarCommunityPT"><img src="https://img.shields.io/badge/-@OscarCommunityPT-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
 
