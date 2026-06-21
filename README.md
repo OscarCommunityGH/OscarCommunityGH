@@ -1,4 +1,4 @@
-![OscarCommunity Banner](file:///C:/Users/DELL/Downloads/ChatGPT%20Image%2021%20jun%202026,%2002_22_59%20p.m..png)
+![image alt](https://github.com/OscarCommunityGH/OscarCommunityGH/blob/d01b0453316362d379a06bf8d961260edd54c065/Banner%20Github.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Buenas, Soy Oscar</h2>
 
