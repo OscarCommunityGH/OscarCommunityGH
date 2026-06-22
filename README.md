@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Buenas, Soy Oscar -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre Mi
 
 💡 &nbsp;Ps me gusta programar aunque aún estoy en proceso de formación.\
 🎓 &nbsp;Actualmente me encuentro cursando Preparatoria en especialidad de IA.\
@@ -12,7 +12,7 @@
 ✍️ &nbsp;En mi tiempo libre me gusta jugar videojuegos y un poco de anime (no otaku).\
 💬 &nbsp;Contactame si te gustó mi readme o si te interesa saber algo más.\
 ✉️ &nbsp;Puedes enviarme un correo al lozanopedrajooscaromar1@gmail, intentaré responder.\
-📄 &nbsp;Mai mi vieja w
+🐰 &nbsp;Mai mi vieja w
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
